@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vincentgebirge/Desktop/Array's/2layersMass/1/1.csproj": {}
+    "/Users/vincentgebirge/Desktop/Array's/2layersMass/3/3.csproj": {}
   },
   "projects": {
-    "/Users/vincentgebirge/Desktop/Array's/2layersMass/1/1.csproj": {
+    "/Users/vincentgebirge/Desktop/Array's/2layersMass/3/3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vincentgebirge/Desktop/Array's/2layersMass/1/1.csproj",
-        "projectName": "1",
-        "projectPath": "/Users/vincentgebirge/Desktop/Array's/2layersMass/1/1.csproj",
+        "projectUniqueName": "/Users/vincentgebirge/Desktop/Array's/2layersMass/3/3.csproj",
+        "projectName": "3",
+        "projectPath": "/Users/vincentgebirge/Desktop/Array's/2layersMass/3/3.csproj",
         "packagesPath": "/Users/vincentgebirge/.nuget/packages/",
-        "outputPath": "/Users/vincentgebirge/Desktop/Array's/2layersMass/1/obj/",
+        "outputPath": "/Users/vincentgebirge/Desktop/Array's/2layersMass/3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vincentgebirge/.nuget/NuGet/NuGet.Config"
