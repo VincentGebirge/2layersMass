@@ -1,0 +1,15 @@
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/2.csproj.AssemblyReference.cache
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/2.AssemblyInfoInputs.cache
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/2.AssemblyInfo.cs
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/2.csproj.CoreCompileInputs.cache
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/bin/Debug/net6.0/2
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/bin/Debug/net6.0/2.deps.json
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/bin/Debug/net6.0/2.runtimeconfig.json
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/bin/Debug/net6.0/2.dll
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/bin/Debug/net6.0/2.pdb
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/2.dll
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/refint/2.dll
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/2.pdb
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/2.genruntimeconfig.cache
+/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/Debug/net6.0/ref/2.dll

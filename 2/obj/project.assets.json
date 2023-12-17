@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vincentgebirge/Desktop/2layerMassives/2/2.csproj",
+      "projectUniqueName": "/Users/vincentgebirge/Desktop/Array's/2layersMass/2/2.csproj",
       "projectName": "2",
-      "projectPath": "/Users/vincentgebirge/Desktop/2layerMassives/2/2.csproj",
+      "projectPath": "/Users/vincentgebirge/Desktop/Array's/2layersMass/2/2.csproj",
       "packagesPath": "/Users/vincentgebirge/.nuget/packages/",
-      "outputPath": "/Users/vincentgebirge/Desktop/2layerMassives/2/obj/",
+      "outputPath": "/Users/vincentgebirge/Desktop/Array's/2layersMass/2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vincentgebirge/.nuget/NuGet/NuGet.Config"
