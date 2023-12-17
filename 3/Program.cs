@@ -4,7 +4,7 @@
 
 using System.Globalization;
 
-int[,] array = new int[3, 3];
+int[,] array = new int[6, 6];
 
 void CreateArray()
 {
@@ -31,7 +31,7 @@ void PrintArray()
 }
 
 
-void MathSumOfNumbsAtString()
+void MathSumOfNumbsAtLine()
 {
   int[] sumArr = new int[array.GetLength(0)];
   Console.WriteLine($"Сумма по строке:");
@@ -57,9 +57,7 @@ void MathSumOfNumbsAtString()
 }
 
 
-
-
 CreateArray();
 PrintArray();
-MathSumOfNumbsAtString();
+MathSumOfNumbsAtLine();
 
