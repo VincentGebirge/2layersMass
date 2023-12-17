@@ -40,7 +40,7 @@ void ChangeArray()
     array[0, i] = temp;
   }
 
-  Console.WriteLine("\nИзмененный массив: ");
+  Console.WriteLine("Измененный массив: ");
   for (int i = 0; i < array.GetLength(0); i++)
   {
     for (int j = 0; j < array.GetLength(1); j++)
@@ -49,8 +49,6 @@ void ChangeArray()
     }
     Console.WriteLine();
   }
-
-  Console.ReadKey();
 }
 
 
